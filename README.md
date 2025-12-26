@@ -17,9 +17,8 @@ This repository contains solutions for the **Vizuara Nuts and Bolts AI** exercis
 ---
 
 ## Deep Learning
-
-- CNN
 - NeuralNetwork
+- CNN
 - RNN
 
 ---
@@ -30,19 +29,26 @@ This repository contains solutions for the **Vizuara Nuts and Bolts AI** exercis
 
 ---
 
-## Transformer
+## Attention
 
-- Attention
-- MultiHeadAttention
-- Transformer
+- Self Attention
+- Multi Head Attention
+- Multi Head Latent Attention
+- MLA Query Compression
+- MLA with ROPE
 
 ---
 
-## Deepseek
+## Architectures
 
-- MLA + QueryCompression
-- MLA + ROPE
-- MLA
+- Transformer
+- Mixture of Experts
+- Switch Transformer
+
+## Components
+
+- Gated Linear Unit
+- SwiGLU
 
 ---
 
